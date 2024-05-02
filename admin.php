@@ -104,7 +104,7 @@
         <textarea id="description" name="description" required></textarea><br>
 
         <label for="image">Image:</label>
-        <input type="file" id="image" name="image"  accept=".jpg, .jpeg, .png" value =""><br><br>
+        <input type="file" id="image" name="image" accept="image/*" value =""><br><br>
 
         <input type="submit" value="Upload Item" name="uploaditem">
    
